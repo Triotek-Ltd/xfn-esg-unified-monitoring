@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "xfn10_2",
+    "module_label": "XFN.10.2 - Benchmarking & Compliance Tracking",
+    "module_title": "Benchmarking & Compliance Tracking",
+    "module_slug": "benchmarking_and_compliance_tracking",
+    "app_code": "xfn10",
+    "app_label": "XFN 10 - ESG Unified Monitoring",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  },
+  {
+    "module_code": "xfn10_1",
+    "module_label": "XFN.10.1 - ESG Metric Capture",
+    "module_title": "ESG Metric Capture",
+    "module_slug": "esg_metric_capture",
+    "app_code": "xfn10",
+    "app_label": "XFN 10 - ESG Unified Monitoring",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  },
+  {
+    "module_code": "xfn10_3",
+    "module_label": "XFN.10.3 - Reporting & Disclosure Logging",
+    "module_title": "Reporting & Disclosure Logging",
+    "module_slug": "reporting_and_disclosure_logging",
+    "app_code": "xfn10",
+    "app_label": "XFN 10 - ESG Unified Monitoring",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  }
+]
